@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Bit_Operator_Project.vcxproj" Id="d783c933-4f32-41ea-8847-30c6c47585a7" />
+</Solution>
